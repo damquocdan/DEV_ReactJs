@@ -1,0 +1,1 @@
+1. Lấy mock data của miniproject 1 sử dụng react hook.
