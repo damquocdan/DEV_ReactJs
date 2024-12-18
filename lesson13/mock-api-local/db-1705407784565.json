@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "username": "Đàm Đân",
+      "password": "123456",
+      "status": "true"
+    },
+    {
+      "username": "Devmaster",
+      "password": "abvvvv",
+      "status": "false"
+    }
+  ],
+  "students": [
+    {
+      "studentID": "SV001",
+      "studentName": "Đàm văn A",
+      "age": 20
+    },
+    {
+      "studentID": "SV002",
+      "studentName": "Đàm văn b",
+      "age": 21
+    },
+    {
+      "studentID": "SV003",
+      "studentName": "Đàm văn c",
+      "age": 22
+    }
+  ]
+}

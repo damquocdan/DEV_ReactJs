@@ -1,0 +1,5 @@
+App reactjs
+-Class Component
+-function Component
+-props: chuyển dữ liệu từ Component cha xuống Component Con 
+-State: quản lý trạng thái dữ liệu của Component hiện tại

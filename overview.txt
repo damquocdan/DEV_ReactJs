@@ -1,0 +1,24 @@
+Tổng quan về học phần Reactjs
+## ES6
+## Reactjs (36h)
+1 Reactjs Basic (3 buổi)
+   - Làm việc với Reactjs cơ bản
+   - mini project 1: Ứng dụng quản lý (student, product...)=>
+      => Hiển thị, tìm kiếm, sắp xếp
+      =>CRUD:xem/ thêm / sửa / xoá
+2 Redux(3 buổi)
+   - Làm việc với các khái niệm cơ bản trong Redux
+   - mini project 2: ứng dụng (todo list/ todo app / shopping cart) 
+3 React Hook 
+   - Làm việc các khái niệm cơ bản với Hook ()
+   -mini project 3: Xây dựng ứng dụng todoApp với Hook
+4 Router / mock API
+   - Các khái niệm và các thành phần
+   - Demo /Lab 
+5 Mock project
+=> từ project FE => xây dựng dữ liệu dưới dạng mock API
+=> Hoàn thiện ứng dụng với ReactJS (5-7 page)
+## tài liệu học tập
+-Slide
+-ReactJS.org
+-tài nguyên mini project
